@@ -24,5 +24,5 @@ This project demonstrates skills in **deep learning, generative modeling, PyTorc
   Please download and place it in a folder named `data/` at the root of the repo.
 
 ```bash
-anime-face-generator/
+anime-face-generator/ # either VAE or GANs folder
 └── data/  # contains dataset images organized in subfolders
