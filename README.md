@@ -11,7 +11,7 @@ This project demonstrates skills in **deep learning, generative modeling, PyTorc
 ## Features
 - Train a **VAE** on anime face dataset for reconstruction and interpolation
 - Generate new images from the **VAE latent space**
-- Train a **GAN** (optional) for high-quality sample generation
+- Train a **GAN** for high-quality sample generation
 - Save outputs as image grids for easy visualization
 - Includes checkpointing and reproducible experiments
 
